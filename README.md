@@ -8,4 +8,4 @@ The model is implemented in tensorflow and trained on a 2D dataset with horsesho
 ![image](https://user-images.githubusercontent.com/98736513/229754203-072509da-145b-4eb9-b52d-4a0979948a2d.png)
 
 ## Usage
-$ unet = Unet((32,32,1), classes = 2, dropout= 0.3)
+`unet = Unet((32,32,1), classes = 2, dropout= 0.3)`
